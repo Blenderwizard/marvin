@@ -15,12 +15,15 @@ phi = (p - 1) * (q - 1)
 d = inverse(e, phi)
 m = pow(c,d,n)
 
-# print 'n =', n
-# print 'p =', p
-# print 'c =', c
-# print 'd =', d
-# print hex(m)[2:-1].decode("hex")
-# a = hex(m.strip())[2:]
-# print a.decode("hex")
+print('n =', n)
+print()
+print('p =', p)
+print()
+print('c =', c)
+print()
+print('d =', d)
+print()
+print(hex(m))
+print(bytes.fromhex(hex(m)[2:]).decode('ascii'))
 
 
