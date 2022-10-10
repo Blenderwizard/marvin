@@ -1,7 +1,7 @@
 # spin
 ## Solved By: [Blenderwizard](https://github.com/Blenderwizard)
 ## Worth: 116 points
-## Total Solves: 383
+## Total Solves: 383 solves
 ## Solution
 
 We are given the following string `oujp{xkurpjcxah_ljnbja_lryqna}`.

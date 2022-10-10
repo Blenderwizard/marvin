@@ -1,7 +1,7 @@
 # password-1
 ## Solved By: [Blenderwizard](https://github.com/Blenderwizard)
 ## Worth: 130 points
-## Total Solves: 342
+## Total Solves: 342 solves
 ## Solution
 
 The `/api/output` route is unprotected. It doesn't take our password as a call to the api.

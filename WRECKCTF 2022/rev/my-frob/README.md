@@ -1,7 +1,7 @@
 # my-frob
 ## Solved By: [Blenderwizard](https://github.com/Blenderwizard)
 ## Worth: 437 points
-## Total Solves: 66
+## Total Solves: 66 solves
 ## Solution
 
 Decompiling the code shows us that the binary reads a file, then applys an xor on every byte of the string with the values `1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144`.

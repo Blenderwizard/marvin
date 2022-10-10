@@ -1,7 +1,7 @@
 # password-3
 ## Solved By: [Blenderwizard](https://github.com/Blenderwizard)
 ## Worth: 403 points
-## Total Solves: 93
+## Total Solves: 93 solves
 ## Solution
 
 The server is vulnurable to the same SQL injection that `password-2`. However this time the flag is stored in the password database we don't retrive the flag from having as sucessfull "password".

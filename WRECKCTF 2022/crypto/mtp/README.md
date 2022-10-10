@@ -1,7 +1,7 @@
 # mtp
 ## Solved By: [Mout](https://github.com/killinq-joke)
-## Worth: 438 point
-## Total Solves: 73
+## Worth: 438 points
+## Total Solves: 73 solves
 ## Solution
 
 The server proposes you two choices:

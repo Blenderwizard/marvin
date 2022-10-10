@@ -1,7 +1,7 @@
 # password-2
 ## Solved By: [Blenderwizard](https://github.com/Blenderwizard)
 ## Worth: 183 points
-## Total Solves: 262
+## Total Solves: 262 solves
 ## Solution
 
 The server is vulnurable to SQL injection. Output is not sanitized and used directly in the SQL Query.

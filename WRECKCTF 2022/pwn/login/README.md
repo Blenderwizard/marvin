@@ -1,7 +1,7 @@
 # login
 ## Solved By: [Blenderwizard](https://github.com/Blenderwizard)
 ## Worth: 414 points
-## Total Solves: 84
+## Total Solves: 84 solves
 ## Solution
 
 Upon inspection of the provided source code, we can see that the dangerous gets function is used at line 50. We can use this to our advantage and perform a buffer overflow.
