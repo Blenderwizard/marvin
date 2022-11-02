@@ -1,4 +1,4 @@
-# CyberSecurityRumble 2022#
+# CyberSecurityRumble 2022
 
 # Event Info
 

@@ -5,3 +5,5 @@ pyvenv.cfg
 pwntools-doc
 *.log
 .DS_Store
+a.out
+*.o
